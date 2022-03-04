@@ -1,15 +1,13 @@
 # Endpoint-geodesic-problems
-This repository contains some source codes for solving the Endpoint geodesic problems
-
 The codes are released to reproduce the experiments reported in the following journal paper:
 
-Lyle Noakes and Erchuan Zhang, "Finding geodesics joining given points", Advances in Computational Mathematics, 2022.
+***Lyle Noakes and Erchuan Zhang, "Finding geodesics joining given points", Advances in Computational Mathematics, 2022.***
 
 Please acknowledge the authors by citing the above paper in any academic publications that have made use of this package or part of it.
 
 ## Get started
 
-***The code is tested in Matlab 2020b***
+The code is tested in Matlab 2020b
 
 ## Algorithm Prototypes
 
@@ -87,14 +85,14 @@ Find the geodesic joining two given points on SO(3) by Leapfrog.
 Implement Algorithm 2 in the paper.
 
 ----
-Copyright (C) 2022 - All Rights Reserved 
+Copyright (C) 2022 Erchuan Zhang - All Rights Reserved 
 
-Installation and use of this software for academic, non-profit, or government-sponsored research purposes is hereby granted. Use of the software under this license is restricted to non-commercial purposes. COMMERCIAL USE OF THE SOFTWARE REQUIRES A SEPARATELY EXECUTED WRITTEN LICENSE AGREEMENT with the copyright holder.
+Use of this package for academic, non-profit, or government-sponsored research purposes is hereby granted. Use of the package under this license is restricted to non-commercial purposes. COMMERCIAL USE OF THE PACKAGE REQUIRES A SEPARATELY EXECUTED WRITTEN LICENSE AGREEMENT with the copyright holder.
 
-Any use of the software, and any modifications, improvements, or derivatives to the software the user(s) may create (collectively, “Improvements”) must be solely for internal, non-commercial purposes. A user of the software shall not distribute or transfer the software or Improvements to any person or third parties without prior written permission from copyright holder.
+Any use of the package, and any modifications, improvements, or derivatives to the package the user(s) may create (collectively, “Improvements”) must be solely for internal, non-commercial purposes. A user of the package shall not distribute or transfer the package or Improvements to any person or third parties without prior written permission from copyright holder.
 
-Any publication of results obtained with the software must acknowledge its use by an appropriate citation to the article titled "Finding geodesics joining given points" published in Advances in Computational Mathematics in 2022.
+Any publication of results obtained with the package must acknowledge its use by an appropriate citation to the article titled "Finding geodesics joining given points" published in Advances in Computational Mathematics in 2022.
 
-ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. THE COPYRIGHT HOLDER MAKES NO REPRESENTATION OR WARRANTY THAT THE SOFTWARE WILL NOT INFRINGE ANY PATENT OR OTHER PROPRIETARY RIGHT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. THE COPYRIGHT HOLDER MAKES NO REPRESENTATION OR WARRANTY THAT THE PACKAGE WILL NOT INFRINGE ANY PATENT OR OTHER PROPRIETARY RIGHT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS PACKAGE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
-Author: Erchuan Zhang, Edith Cowan University, erchuanzhang@gmail.com
+Author: Erchuan Zhang, Edith Cowan University, erchuan.zhang@ecu.edu.au
