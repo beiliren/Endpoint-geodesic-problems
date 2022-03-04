@@ -88,7 +88,7 @@ Installation and use of this software for academic, non-profit, or government-sp
 
 Any use of the software, and any modifications, improvements, or derivatives to the software the user(s) may create (collectively, “Improvements”) must be solely for internal, non-commercial purposes. A user of the software shall not distribute or transfer the software or Improvements to any person or third parties without prior written permission from copyright holder.
 
-Any publication of results obtained with the software must acknowledge its use by an appropriate citation to the article titled "Fast Discrete Distribution Clustering Using Wasserstein Barycenter with Sparse Support" published in the IEEE Transactions on Signal Processing in 2017.
+Any publication of results obtained with the software must acknowledge its use by an appropriate citation to the article titled "Finding geodesics joining given points" published in Advances in Computational Mathematics in 2022.
 
 ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. THE COPYRIGHT HOLDER MAKES NO REPRESENTATION OR WARRANTY THAT THE SOFTWARE WILL NOT INFRINGE ANY PATENT OR OTHER PROPRIETARY RIGHT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
