@@ -13,7 +13,7 @@ Please acknowledge the authors by citing the above paper in any academic publica
 
 ## Algorithm Prototypes
 
-***Experiments on ellipsoid***
+***Experiments on ellipsoid with restricted Euclidean metric***
 
 -- ellipsoid_demo1.m
 
